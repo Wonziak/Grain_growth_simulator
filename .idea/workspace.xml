@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fad1dae-3e8a-4108-b597-326a90b0d587" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cell_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/cell_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_window_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_window_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Wonziak &lt;witold.dankiewicz98@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1anYuMHtaQnBsIv4zwyQElBsOLF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fad1dae-3e8a-4108-b597-326a90b0d587" name="Default Changelist" comment="" />
+      <created>1587373046806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587373046806</updated>
+      <workItem from="1587373048256" duration="4144000" />
+      <workItem from="1587390422100" duration="2683000" />
+      <workItem from="1587402504810" duration="14214000" />
+      <workItem from="1587448729607" duration="13215000" />
+      <workItem from="1587489128706" duration="54000" />
+      <workItem from="1587539381536" duration="3198000" />
+      <workItem from="1587631323922" duration="32000" />
+      <workItem from="1587671212335" duration="86000" />
+      <workItem from="1587908403295" duration="294000" />
+      <workItem from="1587970054266" duration="32806000" />
+      <workItem from="1588010109043" duration="4000" />
+      <workItem from="1588102290416" duration="389000" />
+      <workItem from="1588145184269" duration="5238000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Wszystkie wymagania&quot;">
+      <created>1587460966087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587460966087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Wszystkie wymagania&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Wszystkie wymagania&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587999855643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587999855643" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1587460965120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587460965120" />
+    <state x="697" y="231" key="SettingsEditor" timestamp="1587999117325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="231" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587999117325" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587467495380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587467495380" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587460933821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587460933821" />
+  </component>
+</project>
